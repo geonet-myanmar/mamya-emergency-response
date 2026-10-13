@@ -1,0 +1,6 @@
+# Raw source inputs: kept local (situation tables contain personal and department names)
+*.jpg
+*.jpeg
+*.png
+*.kml
+*.kmz
